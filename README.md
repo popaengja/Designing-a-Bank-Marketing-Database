@@ -1,6 +1,6 @@
 # datacamp
-Designing a Bank Marketing Database
-![piggy_bank](piggy_bank.jpg)
+Designing a Bank Marketing Database datacamp project
+
 
 <br>
 
